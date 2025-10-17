@@ -1,0 +1,58 @@
+[
+    {
+        "device_id": "fc7852eb74e0fd02",
+        "username": "admin",
+        "password": "pass",
+        "expirydate": "31-12-2030",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1db0726010f51a86",
+        "username": "OLD",
+        "password": "HACKER",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "eebc96ea1f5e4f56",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9fdde8f18ff2ba6e",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "222c33e82cff9e7a",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b208242ad944518a",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "899522e55d49d46b",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5ddec9d408f557ba",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    }
+]
